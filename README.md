@@ -1,4 +1,7 @@
-# app-social
+# Ajans Is Takip Uygulaması
+Ajanslar ve freelance çalışanlar için vue.js ile geliştirdiğim iş takip uygulaması. Projenin tamam vue.js ile yazılmıştır. Vuetify componentleri kullanılmıştır.
+
+Örnek web site: https://ajans-is-takip.firebaseapp.com
 
 ## Project setup
 ```
